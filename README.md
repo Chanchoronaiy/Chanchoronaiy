@@ -1,6 +1,6 @@
 - 👋 Hi, I’m choronaiy ~
 - 👀 An aspiring AI engineer!
-- 🌱 I’m currently learning C# and Web !
+- 🌱 I’m currently DSA and ML !
 - 📫 email: choronaiyspringboard@gmail.com
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I LOVE dumplings and i could eat it every week
